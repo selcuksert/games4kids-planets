@@ -1,6 +1,7 @@
 # Find the name of Planet
 
 A simple contest on planets written with Polymer 3.0:
+
 <img src="doc/images/screen.PNG" width="50%" height="50%">
 
 ## Install the Polymer-CLI
