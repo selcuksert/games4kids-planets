@@ -1,6 +1,6 @@
 # Find the name of Planet
 
-A simple contest on planets
+A simple contest on planets written with Polymer 3.0 
 
 ## Install the Polymer-CLI
 
