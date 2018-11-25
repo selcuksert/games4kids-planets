@@ -2,7 +2,7 @@
 
 A simple contest on planets written with Polymer 3.0:
 
-![Screen](doc/images/screen.PNG =60x97)
+![Screen](doc/images/screen.PNG | width=60px)
 
 ## Install the Polymer-CLI
 
