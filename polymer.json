@@ -1,0 +1,22 @@
+{
+  "entrypoint": "index.html",
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  },
+  "sources": [
+    "favicon.ico",
+    "manifest.json",
+    "data/*",
+    "data/images/*",
+    "data/images/planets/*"
+  ],
+  "builds": [{
+    "bundle": true,
+    "js": {"minify": true},
+    "css": {"minify": true},
+    "html": {"minify": true}
+  }]
+}

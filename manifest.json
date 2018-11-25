@@ -1,0 +1,7 @@
+{
+  "name": "planets",
+  "short_name": "planets",
+  "description": "A simple contest on planets",
+  "start_url": "/",
+  "display": "standalone"
+}

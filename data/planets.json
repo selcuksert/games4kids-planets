@@ -1,0 +1,36 @@
+{
+  "planets": [
+    {
+      "code": "ME",
+      "name": "Merkür"
+    },
+    {
+      "code": "VE",
+      "name": "Venüs"
+    },
+    {
+      "code": "DU",
+      "name": "Dünya"
+    },
+    {
+      "code": "MA",
+      "name": "Mars"
+    },
+    {
+      "code": "JU",
+      "name": "Jüpiter"
+    },
+    {
+      "code": "SA",
+      "name": "Satürn"
+    },
+    {
+      "code": "UR",
+      "name": "Uranüs"
+    },
+    {
+      "code": "NE",
+      "name": "Neptün"
+    }
+  ]
+}
