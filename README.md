@@ -1,4 +1,4 @@
-# \<planets\>
+# Find the name of Planet
 
 A simple contest on planets
 
