@@ -2,23 +2,23 @@
   "name": "planets",
   "description": "A simple contest on planets",
   "dependencies": {
-    "@polymer/app-layout": "^3.0.1",
-    "@polymer/app-storage": "^3.0.2",
+    "@polymer/app-layout": "^3.1.0",
+    "@polymer/app-storage": "^3.0.3",
     "@polymer/iron-ajax": "^3.0.1",
     "@polymer/iron-flex-layout": "^3.0.1",
     "@polymer/iron-icons": "^3.0.1",
-    "@polymer/iron-image": "^3.0.1",
+    "@polymer/iron-image": "^3.0.2",
     "@polymer/paper-button": "^3.0.1",
     "@polymer/paper-card": "^3.0.1",
-    "@polymer/paper-icon-button": "^3.0.1",
+    "@polymer/paper-icon-button": "^3.0.2",
     "@polymer/paper-styles": "^3.0.1",
-    "@polymer/polymer": "^3.0.0"
+    "@polymer/polymer": "^3.3.1"
   },
   "devDependencies": {
     "@polymer/test-fixture": "^4.0.2",
-    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "@webcomponents/webcomponentsjs": "^2.4.3",
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "wct-mocha": "^1.0.0"
+    "mocha": "^7.1.1",
+    "wct-mocha": "^1.0.1"
   }
 }

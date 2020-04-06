@@ -276,7 +276,7 @@ class PlanetsApp extends PolymerElement {
 
     ready() {
         super.ready();
-        let speech = window.speechSynthesis;
+        let speech = window.speechSynthesis && (undefined != window.responsiveVoice);
         if (!speech) {
             this.speechActive = false;
             console.error("Konuşma etkin değil...")
